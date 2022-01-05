@@ -6,6 +6,7 @@ int main()
 {
     int a=3;
     int b=6;
-    cout<<a+b;
+    c=9;
+    cout<<a+b+c+c+C;
     return 0;
 }
